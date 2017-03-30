@@ -1,0 +1,1 @@
+https://github.com/ngogia20/datapower-tutorials/blob/master/using-datapower-in-ibm-container-service/using-datapower-in-ibm-container-service.md
